@@ -1,0 +1,6 @@
+train: ../Dataset/train/images
+val: ../Dataset/valid/images
+test: ../Dataset/test/images
+
+nc: 12
+names: ['Aircraft', 'Animal', 'Bus', 'Car', 'Helicopter', 'Human', 'Motorcycle', 'Pole', 'Stone', 'Tank', 'Tree', 'Truck']
